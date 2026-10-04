@@ -54,7 +54,7 @@ gtkwave tb_control_caldera.vcd
 
 ## Resultados de simulación
 
-### Sumador de 1 bits
+### Sumador de 1 bit
 ![Circuito en Digital](Imagenes/sum1bit.png)
 
 Tabla de verdad impresa en la terminal:
