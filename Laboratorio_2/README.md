@@ -55,41 +55,41 @@ gtkwave tb_control_caldera.vcd
 ## Resultados de simulación
 
 ### Sumador de 1 bits
-![Circuito en Digital](imagenes/sum1bit.png)
+![Circuito en Digital](Imagenes/sum1bit.png)
 
 Tabla de verdad impresa en la terminal:
 
-![Tabla de verdad de s_1b](imagenes/sim_s_1b.png)
+![Tabla de verdad de s_1b](Imagenes/sim_s_1b.png)
 
 
 ### Sumador de 4 bits
-![Circuito en Digital](imagenes/sum4bits.png)
+![Circuito en Digital](Imagenes/sum4bits.png)
 
 Tabla de verdad impresa en la terminal:
 
-![Tabla de verdad de sumador](imagenes/sim_sumador.png)
+![Tabla de verdad de sumador](Imagenes/sim_sumador.png)
 
-![Tabla de verdad de fpga_sumador](imagenes/sim_fpga_sumador.png)
+![Tabla de verdad de fpga_sumador](Imagenes/sim_fpga_sumador.png)
 
 
 ### Sumador/restador
-![Circuito en Digital](imagenes/Sum_res.png)
+![Circuito en Digital](Imagenes/Sum_res.png)
 
 Tabla de verdad impresa en la terminal:
 
 
-![Tabla de verdad del sumador/restador](imagenes/sim_sumador_restador.png)
+![Tabla de verdad del sumador/restador](Imagenes/sim_sumador_restador.png)
 
-![Tabla de verdad del sumador/restador](imagenes/sim_fpga_restador.png)
+![Tabla de verdad del sumador/restador](Imagenes/sim_fpga_restador.png)
 
 ### Control de caldera
 
-![Circuito en Digital](imagenes/caldera.png)
+![Circuito en Digital](Imagenes/caldera.png)
 
 Tabla de verdad impresa en la terminal:
 
 
-![Tabla de verdad del sumador/restador](imagenes/sim_control_caldera.png)
+![Tabla de verdad del sumador/restador](Imagenes/sim_control_caldera.png)
 
 
 ### Display7
@@ -97,6 +97,6 @@ Tabla de verdad impresa en la terminal:
 Tabla de verdad impresa en la terminal:
 
 
-![Tabla de verdad del sumador/restador](imagenes/sim_display7.png)
+![Tabla de verdad del sumador/restador](Imagenes/sim_display7.png)
 
 
