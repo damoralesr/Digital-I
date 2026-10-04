@@ -8,14 +8,14 @@ de caldera y sus testbenches autoverificables.
 
 | Archivo | Descripción |
 |---|---|
-| [`src/s_1b.v`](src/s_1b.v) | Sumador completo de 1 bit |
-| [`src/sumador.v`](src/sumador.v) | Sumador de 4 bits (ripple-carry) |
-| [`src/display7.v`](src/display7.v) | Manejador de display de 7 segmentos (muestra 0 o 1) |
-| [`src/fpga_sumador.v`](src/fpga_sumador.v) | Top-level del sumador para la tarjeta FPGA |
-| [`src/sumador_restador.v`](src/sumador_restador.v) | Suma (Sel=0) o resta (Sel=1) de 4 bits |
-| [`src/fpga_restador.v`](src/fpga_restador.v) | Top-level del sumador/restador para la FPGA |
-| [`src/control_caldera.v`](src/control_caldera.v) | Compara T con L y enciende LED PROCESS, PERFECT o BURN |
-| [`tb/tb_simulaciones.v`](tb/tb_simulaciones.v) | Testbenches de todos los módulos |
+| [`s_1b.v`](s_1b.v) | Sumador completo de 1 bit |
+| [`sumador.v`](sumador.v) | Sumador de 4 bits (ripple-carry) |
+| [`display7.v`](display7.v) | Manejador de display de 7 segmentos (muestra 0 o 1) |
+| [`fpga_sumador.v`](fpga_sumador.v) | Top-level del sumador para la tarjeta FPGA |
+| [`sumador_restador.v`](sumador_restador.v) | Suma (Sel=0) o resta (Sel=1) de 4 bits |
+| [`fpga_restador.v`](fpga_restador.v) | Top-level del sumador/restador para la FPGA |
+| [`control_caldera.v`](control_caldera.v) | Compara T con L y enciende LED PROCESS, PERFECT o BURN |
+| [`tb_simulaciones.v`](tb_simulaciones.v) | Testbenches de todos los módulos |
 
 ## Descripción de los módulos
 
