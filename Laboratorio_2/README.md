@@ -99,4 +99,7 @@ Tabla de verdad impresa en la terminal:
 
 ![Tabla de verdad del sumador/restador](Imagenes/sim_display7.png)
 
+## Resultados Practicos
+[Reporte del Laboratorio 2 (PDF)](Documentos/Reporte_Laboratorio_2.pdf)
+
 
