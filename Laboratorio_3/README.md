@@ -30,7 +30,7 @@ El módulo `fpga_restador` encadena estos bloques:
 | `mux_display` | Muestra un dígito a la vez: DIG1 unidades, DIG2 decenas, DIG3 signo |
 
 Los interruptores A y B son de lógica negativa. El interruptor `Op` selecciona
-la operación: `Op = 0` resta (A - B) y `Op = 1` suma (A + B).
+la operación: `Op = 0` suma (A + B) y `Op = 1` resta (A - B).
 
 ### Asignación de pines
 
