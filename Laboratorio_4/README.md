@@ -164,7 +164,7 @@ activa coincide con la tecla presionada) y ejecuta tres pruebas:
  
 1. Clave correcta (1-2-3-4): la FSM ordena la apertura (`pos_fsm = 15`).
 2. Cierre con `*` desde OPEN: `pos_fsm` vuelve a 0.
-3. Clave incorrecta (5-6-7-8): el buzzer emite el tono de error.
+3. Clave incorrecta (ejemplo: 5-6-7-8): el buzzer emite el tono de error.
 ### Cómo obtener las imágenes de GTKWave
  
 1. Abre el archivo `.vcd` con `gtkwave cerradura.vcd`.
