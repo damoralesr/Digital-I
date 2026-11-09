@@ -203,3 +203,9 @@ Formas de onda del sistema: teclado, `pass_in`, estados de la FSM, `pos_fsm`,
  
 [Reporte del Laboratorio 4 parte 1(PDF)](PARTE%201/Posiciones%20del%20servo%20(1).pdf)
 
+[Reporte del Laboratorio 4 parte 2(PDF)](PARTE%202/Teclado%20matricial.pdf)
+
+[Reporte del Laboratorio 4 parte 2(Video)](PARTE%202/teclado%20matricial.mp4)
+
+[Reporte del Laboratorio 4 parte 3(Video)](PARTE%203/Cerradura.mp4)
+
