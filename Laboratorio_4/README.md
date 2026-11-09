@@ -180,11 +180,11 @@ activa coincide con la tecla presionada) y ejecuta tres pruebas:
  
 Salida de terminal con periodo y ancho de pulso para `pos = 0`, `7` y `15`.
  
-![Resultados del generador PWM en la terminal](Imagenes/lab4_servo_terminal.png)
+![Resultados del generador PWM en la terminal](Imagenes/lab4_terminal_1.png)
  
 Formas de onda de `servo_pwm` para tres posiciones.
  
-![Formas de onda del PWM en GTKWave](Imagenes/lab4_servo_gtkwave.png)
+![Formas de onda del PWM en GTKWave](Imagenes/lab4_gtkwave_1.png)
  
 ### Teclado matricial
  
