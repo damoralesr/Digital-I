@@ -190,18 +190,14 @@ Formas de onda de `servo_pwm` para tres posiciones.
  
 Escaneo de filas, columnas, `key_code` y pulso de `key_valid`.
  
-![Formas de onda del teclado en GTKWave](Imagenes/lab4_teclado_gtkwave.png)
+![Formas de onda del teclado en GTKWave](Imagenes/lab4_gtkwave_2.png)
  
 ### Sistema completo
- 
-Salida de terminal de las tres pruebas de la cerradura.
- 
-![Resultados de la cerradura en la terminal](Imagenes/lab4_cerradura_terminal.png)
  
 Formas de onda del sistema: teclado, `pass_in`, estados de la FSM, `pos_fsm`,
 `servo_pwm` y `buzzer`.
  
-![Formas de onda de la cerradura en GTKWave](Imagenes/lab4_cerradura_gtkwave.png)
+![Formas de onda de la cerradura en GTKWave](Imagenes/lab4_gtkwave_3.png)
  
 ## Resultados Prácticos
  
