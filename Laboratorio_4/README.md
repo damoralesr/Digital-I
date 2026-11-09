@@ -19,7 +19,7 @@ controlada por una máquina de estados finitos (FSM).
 | [`cerradura_top.v`](PARTE%203/cerradura_top.v) | Top de la Parte 3: integra todos los módulos y selecciona el modo |
 | [`tb_servo_pwm.v`](tb_servo_pwm.v) | Testbench del generador PWM |
 | [`tb_cerradura.v`](PARTE%203/tb_cerradura.v) | Testbench del sistema completo con modelo del teclado |
-| [`cerradura.qpf`](PARTE%203/cerradura.qpf) / [`cerradura.qsf`](cerradura.qsf) | Proyecto y asignación de pines de Quartus |
+| [`cerradura.qpf`](PARTE%203/cerradura.qpf) / [`cerradura.qsf`](PARTE%203/cerradura.qsf) | Proyecto y asignación de pines de Quartus |
  
 ## Cómo funciona
  
