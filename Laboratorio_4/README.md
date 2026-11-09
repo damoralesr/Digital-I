@@ -201,5 +201,5 @@ Formas de onda del sistema: teclado, `pass_in`, estados de la FSM, `pos_fsm`,
  
 ## Resultados Prácticos
  
-[Reporte del Laboratorio 4 (PDF)](ANEXO_LABORATORIO_4.pdf)
+[Reporte del Laboratorio 4 parte 1(PDF)](PARTE%201/posiciones%20del%20servo%20(1).pdf)
 
