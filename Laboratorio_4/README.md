@@ -12,14 +12,14 @@ controlada por una máquina de estados finitos (FSM).
 |---|---|
 | [`servo_pwm_gen.v`](servo_pwm_gen.v) | Generador PWM para servo (periodo 20 ms, pulso de 1 a 2 ms) |
 | [`top_servo.v`](top_servo.v) | Top de la Parte 1: `sw[3:0]` controla la posición del servo |
-| [`teclado_matricial.v`](PARTE_2/teclado_matricial.v) | Interfaz del teclado 4x4: sincronizador, escaneo, antirrebote y `key_valid` |
-| [`top_teclado.v`](top_teclado.v) | Top de la Parte 2: muestra `key_code` en los LEDs |
-| [`registro_pass.v`](registro_pass.v) | Registro de desplazamiento de 16 bits y contador de dígitos |
-| [`fsm_cerradura.v`](fsm_cerradura.v) | FSM de la cerradura, comparación de clave, temporizadores y buzzer |
-| [`cerradura_top.v`](cerradura_top.v) | Top de la Parte 3: integra todos los módulos y selecciona el modo |
+| [`teclado_matricial.v`](PARTE%202/teclado_matricial.v) | Interfaz del teclado 4x4: sincronizador, escaneo, antirrebote y `key_valid` |
+| [`top_teclado.v`](PARTE%202/top_teclado.v) | Top de la Parte 2: muestra `key_code` en los LEDs |
+| [`registro_pass.v`](PARTE%203/registro_pass.v) | Registro de desplazamiento de 16 bits y contador de dígitos |
+| [`fsm_cerradura.v`](PARTE%203/fsm_cerradura.v) | FSM de la cerradura, comparación de clave, temporizadores y buzzer |
+| [`cerradura_top.v`](PARTE%203/cerradura_top.v) | Top de la Parte 3: integra todos los módulos y selecciona el modo |
 | [`tb_servo_pwm.v`](tb_servo_pwm.v) | Testbench del generador PWM |
-| [`tb_cerradura.v`](tb_cerradura.v) | Testbench del sistema completo con modelo del teclado |
-| [`cerradura.qpf`](cerradura.qpf) / [`cerradura.qsf`](cerradura.qsf) | Proyecto y asignación de pines de Quartus |
+| [`tb_cerradura.v`](PARTE%203/tb_cerradura.v) | Testbench del sistema completo con modelo del teclado |
+| [`cerradura.qpf`](PARTE%203/cerradura.qpf) / [`cerradura.qsf`](cerradura.qsf) | Proyecto y asignación de pines de Quartus |
  
 ## Cómo funciona
  
